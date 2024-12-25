@@ -8,6 +8,7 @@ XML
 ### Example Annotation Format (XML)
 
 Here is an example of what a typical XML file for annotations looks like:
+
 ---xml
 <annotation>
     <folder></folder>
