@@ -1,0 +1,33 @@
+<Annotation>
+  <folder>data_images</folder>
+  <filename>FLIR_04125.jpeg</filename>
+  <path>D:\IR_RGB\yolo_object_detection\Notes\1_datapreparation\data_images</path>
+  <source>
+	<database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>566</xmin>
+      <ymin>226</ymin>
+      <xmax>627</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>220</ymin>
+      <xmax>172</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+</Annotation>

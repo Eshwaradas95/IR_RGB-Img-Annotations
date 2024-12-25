@@ -1,0 +1,33 @@
+<Annotation>
+  <folder>data_images</folder>
+  <filename>FLIR_03514.jpeg</filename>
+  <path>D:\IR_RGB\yolo_object_detection\Notes\1_datapreparation\data_images</path>
+  <source>
+	<database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>287</xmin>
+      <ymin>230</ymin>
+      <xmax>329</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>305</ymin>
+      <xmax>248</xmax>
+      <ymax>339</ymax>
+    </bndbox>
+  </object>
+</Annotation>
